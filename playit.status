@@ -1,1474 +1,361 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719073473573 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719074140001 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073476642 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074143060 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073479696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074146107 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073482764 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074149196 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073485823 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074152232 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073488906 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074155273 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073491945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074158321 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073495035 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074161391 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073498135 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074164446 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073501188 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074167575 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073504248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074170637 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073507310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074173691 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073510354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074176749 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073513538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074179822 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073516602 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074182863 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073519646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074185914 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073522723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074188963 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073525853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074192097 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073528901 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074195152 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073531949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074198212 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073534989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074201414 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073538059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074204462 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073541100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074207606 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073544152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074210654 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073547200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074213753 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073550235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074216872 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073553268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074219916 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073556311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074222973 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073559350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074226031 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073562432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074229110 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073565534 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074232173 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073568609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074235247 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073571709 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074238490 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073574800 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074241546 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073577855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074244599 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073580912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074247680 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073584003 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074250935 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073587051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074253968 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073590092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074257013 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073593184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074260052 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073596239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074263228 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073599297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074266307 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073602363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074269359 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073605395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074272409 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073608529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074275668 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073611572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074278703 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073614611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074281740 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073617691 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074284849 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073620831 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074287981 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073623878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074291093 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073626936 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074294146 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073629987 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073633055 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073636112 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073639422 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073642462 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073645522 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073648585 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073651656 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073654709 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073657749 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073660802 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073663868 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073666970 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073670021 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073673064 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073676114 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073679239 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073682289 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073685337 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073688405 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073691490 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073694546 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073697591 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073700629 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073703671 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073706717 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073709835 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073712883 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073715934 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073718986 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073722048 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073725099 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073728160 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073731207 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073734276 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073737324 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073740393 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073743460 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073746507 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073749594 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073752631 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073755700 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073758759 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073761825 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073764866 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073767930 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073771011 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073774052 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073777123 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073780203 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073783269 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073786315 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073789371 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073792404 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073795438 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073798494 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073801887 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073804981 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073808037 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073811079 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073814120 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073817172 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073820236 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073823291 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073826342 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073829395 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073832458 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073835505 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073838567 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073841623 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073844692 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073847754 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073850858 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073853905 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073856951 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073860000 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073863061 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073866096 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073869189 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073872249 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073875310 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073878344 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073881381 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073884467 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073887527 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073890597 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073893670 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073896762 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073899822 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073902877 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073905927 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073908987 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073912039 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073915092 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073918147 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073921201 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073924234 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073927280 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073930318 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073933387 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073936425 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073939498 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073942534 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073945600 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073948656 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073951706 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073954840 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073957931 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073961001 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073964068 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073967134 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073970237 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073973337 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073976382 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073979418 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073982466 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073985780 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073988940 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073992030 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073995074 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719073998175 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074001236 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074004290 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074007656 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074010721 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074013781 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074016830 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074019887 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074022933 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074025969 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074029058 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074032160 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074035211 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074038251 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074041320 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074044368 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074047423 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074050474 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074053519 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074056604 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074059688 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074062727 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074065827 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074068864 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074071915 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074074996 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074078087 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074081167 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074084206 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074087254 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074090341 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074093424 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074096474 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074099731 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074103134 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074106217 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074109270 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074112314 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074115347 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719074118391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719074297184 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
