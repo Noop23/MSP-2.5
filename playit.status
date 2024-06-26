@@ -1293,3 +1293,10 @@ Too many agents: https://playit.gg/account/agents
 TUNNELS
 court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
 southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719368827468 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+court-likely.gl.at.ply.gg:32119 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+southern-nn.gl.at.ply.gg:2488 => 127.0.0.1:2488 (proto: Udp, port count: 1)
